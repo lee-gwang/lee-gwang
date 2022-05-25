@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition)
