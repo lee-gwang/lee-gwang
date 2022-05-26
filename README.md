@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition)
+<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition/light) -->
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light)
