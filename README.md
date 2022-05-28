@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition/light) -->
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light)
+<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light) -->
