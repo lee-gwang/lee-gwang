@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 ## Awards
 #### International
 
-- <Image & Video> : 7, <Tabular (Time-series, Signal ..)> : 8, <Sound> : 1, <Recsys> : 1
+- [Image & Video] : 7번
+- [Tabular (Time-series, Signal..)] : 8번
+- [Sound] : 1번
+- [Recsys] : 1번
 
 |**Year**| **Name**                                                     | **Host** | **Rank**          | **Type**         |
 | ----   | ------------------------------------------------------------ | ------        | -------------------------------- | ------------------- |
