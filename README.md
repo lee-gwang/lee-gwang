@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - [2020] 이광한, 신동군. Dynamic Sparse Training 을 응용한 점진적 그룹단위 프루닝. 정보과학회 2020 한국 소프트웨어 종합학술대회 논문집. 2020.12.
 
 ## Activity
-- [2022.06 ~ ] SKT AI Fellowship, 딥러닝 기반 흑백 이미지 컬러화 기술 개발
+- [2022.06~ ] SKT AI Fellowship, 딥러닝 기반 흑백 이미지 컬러화 기술 개발
 
 ## Awards
 #### International
