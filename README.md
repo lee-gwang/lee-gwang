@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## Awards
 
-- [Image & Video] / [Tabular (Time-series, Signal..)] / [Sound] / [Recsys] / [NLP]
+- [Image & Video] 7 awards / [Tabular (Time-series, Signal..)] 8 awards/ [Sound] 1 awards/ [Recsys] 1 awards/ [NLP] 2 awards
 
 #### International
 |**Year**| **Name**                                                     | **Host** | **Rank**          | **Type**         |
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 
 ## Project
-# 나중에 한화, 개인정보 넣기
+<!-- # 나중에 한화, 개인정보 넣기 -->
 - [2021] High-Potential Individuals Global Training Program( IITP, University of Southern California, 2021 ~ )
   - Contributed to the development of anomaly detection network.
 
