@@ -41,7 +41,11 @@ Here are some ideas to get you started:
 
 ## Awards
 
-- [Image & Video] 7 awards / [Tabular (Time-series, Signal..)] 8 awards/ [Sound] 1 awards/ [Recsys] 1 awards/ [NLP] 2 awards
+- [Image & Video] : 7 awards
+- [Tabular (Time-series, Signal..)] : 8 awards
+- [Sound] : 1 awards
+- [Recsys] : 1 awards
+- [NLP] : 2 awards
 
 #### International
 |**Year**| **Name**                                                     | **Host** | **Rank**          | **Type**         |
