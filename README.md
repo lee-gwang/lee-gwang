@@ -41,8 +41,11 @@ Here are some ideas to get you started:
 ## Activity
 - [2022.06~ ] SKT AI Fellowship, 딥러닝 기반 흑백 이미지 컬러화 기술 개발
 
+
 ## Awards
 #### International
+
+- <Image & Video> : 7, <Tabular (Time-series, Signal ..)> : 8, <Sound> : 1, <Recsys> : 1
 
 |**Year**| **Name**                                                     | **Host** | **Rank**          | **Type**         |
 | ----   | ------------------------------------------------------------ | ------        | -------------------------------- | ------------------- |
