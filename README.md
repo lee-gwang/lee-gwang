@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+안녕하세요. ML/DL 문제해결에 관심많은 대학원생입니다.
 <!--
 **lee-gwang/lee-gwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
