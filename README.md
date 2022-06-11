@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Awards
 
-- [Image & Video] / [Tabular (Time-series, Signal..)] / [Sound] / [Recsys] / [
+- [Image & Video] / [Tabular (Time-series, Signal..)] / [Sound] / [Recsys] / [NLP]
 
 #### International
 |**Year**| **Name**                                                     | **Host** | **Rank**          | **Type**         |
