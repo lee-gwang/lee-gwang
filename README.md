@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 | 2021   | SKT CCTV Security Video Image Object Detection             | SKT             | 1st (top 1%)                | SSL Object Detection (Video) |
 | 2021   | Camera Image Quality Improvement AI Contest                | LG / Dacon      | 1st/228(top 1%)             | Image Denosing (Image) |
 | 2021   | News topic classification using KLUE data                  | Dacon           | 1st/256(top 1%)             | Classification (NLP) |
-| 2021   | electrical energy quality classification AI Contest                    | NIPA/ Aiconnenct| 2nd                         | Classification (Tabular, Time-series) |
+| 2021   | Electrical energy quality classification AI Contest                    | NIPA/ Aiconnenct| 2nd                         | Classification (Tabular, Time-series) |
 | 2021   | Ego-Vision Hand Gesture Recognition AI Contest             | NIA / Dacon     | 2nd/290(top 1%)             | Classification (Image) |
 | 2021   | 2021 AI Grand Challenge 5th                                | IITP            | Awards (KRW 273M in support)| Regression/Classification (NLP) |
 | 2020   | AI Challenge for rainfall prediction using public data     | Dacon           | 4th/132(top 3%)| Regression (Image) |
