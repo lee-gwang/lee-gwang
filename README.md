@@ -43,13 +43,10 @@ Here are some ideas to get you started:
 
 
 ## Awards
+
+- [Image & Video] / [Tabular (Time-series, Signal..)] / [Sound] / [Recsys] / [
+
 #### International
-
-- [Image & Video] : 7번
-- [Tabular (Time-series, Signal..)] : 8번
-- [Sound] : 1번
-- [Recsys] : 1번
-
 |**Year**| **Name**                                                     | **Host** | **Rank**          | **Type**         |
 | ----   | ------------------------------------------------------------ | ------        | -------------------------------- | ------------------- |
 | 2022   | BirdCLEF 2022                                              | Kaggle          | 9th/828(top 1%), Gold medal      | Sound classification (Sound/Image)  |
