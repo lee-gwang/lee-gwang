@@ -31,12 +31,15 @@ Here are some ideas to get you started:
   - Organic and Nano System Engineering
 
 ## Publication
-- Gwanghan Lee, Minha Kim, Minha Kim, and Simon S. Woo. 2021. EMGNet:Efficient Multi-Scale Feature Generation Adaptive Network. CIKM 2021. 
+- [2021, CIKM] Gwanghan Lee, Minha Kim, Minha Kim, and Simon S. Woo. 2021. EMGNet:Efficient Multi-Scale Feature Generation Adaptive Network. CIKM 2021. 
 (BK Computer Science IF=3, Acceptance Rate : 21.7%)
 
-- Geunhye Jo, Gwanghan Lee, and Dongkun Shin. Exploring Group Sparsity using Dynamic Sparse Training. IEEE International Conference on Consumer Electronics Asia (ICCE-Asia) 2020, Busan, Korea, November 2020
+- [2020, ICCE-Asia] Geunhye Jo, Gwanghan Lee, and Dongkun Shin. Exploring Group Sparsity using Dynamic Sparse Training. IEEE International Conference on Consumer Electronics Asia (ICCE-Asia) 2020, Busan, Korea, November 2020
 
-- 이광한, 신동군. Dynamic Sparse Training 을 응용한 점진적 그룹단위 프루닝. 정보과학회 2020 한국 소프트웨어 종합학술대회 논문집. 2020.12.
+- [2020] 이광한, 신동군. Dynamic Sparse Training 을 응용한 점진적 그룹단위 프루닝. 정보과학회 2020 한국 소프트웨어 종합학술대회 논문집. 2020.12.
+
+## Activity
+- [2022] SKT AI Fellowship, 딥러닝 기반 흑백 이미지 컬러화 기술 개발
 
 ## Awards
 #### International
