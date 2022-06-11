@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 
 - [2020] 이광한, 신동군. Dynamic Sparse Training 을 응용한 점진적 그룹단위 프루닝. 정보과학회 2020 한국 소프트웨어 종합학술대회 논문집. 2020.12.
 
-## Activity
-- [2022.06~ ] SKT AI Fellowship, 딥러닝 기반 흑백 이미지 컬러화 기술 개발
-
 
 ## Awards
 
@@ -76,13 +73,19 @@ Here are some ideas to get you started:
 | 2019   | Kakao brunch article recommendation competition            | Kakao           | 3rd (5th/364)(top 1%) | Regression (Recommender system / NLP, Tabular, Time series)  |
 
 
+## Activity
+- [2022.06~ ] SKT AI Fellowship, 딥러닝 기반 흑백 이미지 컬러화 기술 개발
+
+
 ## Project
-- High-Potential Individuals Global Training Program( IITP, University of Southern California, 2021 ~ )
+# 나중에 한화, 개인정보 넣기
+- [2021] High-Potential Individuals Global Training Program( IITP, University of Southern California, 2021 ~ )
   - Contributed to the development of anomaly detection network.
 
-- Research on solving mathematical problems using natural language processing technology( IITP, 2021.07. ~ )
+- [2021] Research on solving mathematical problems using natural language processing technology( IITP, 2021.07. ~ )
   - Contributed to the development of efficient network.
  
-- Software Framework for Intelligent IoT Devices( IITP, SW starlab, 2020.03. ~ 2021.01. )
+- [2020] Software Framework for Intelligent IoT Devices( IITP, SW starlab, 2020.03. ~ 2021.01. )
   - Contributed to the development of efficient network. (pruning, knowledge distillation, Optimization)
+
 
