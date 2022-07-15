@@ -1,6 +1,7 @@
 ### Hi there 👋
 안녕하세요. ML/DL 문제해결에 관심많은 대학원생입니다.
-[CV](https://github.com/lee-gwang/lee-gwang/blob/main/final_gh_cv.pdf)
+
+[[CV](https://github.com/lee-gwang/lee-gwang/blob/main/final_gh_cv.pdf)]
 <!--
 **lee-gwang/lee-gwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
