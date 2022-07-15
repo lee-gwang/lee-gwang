@@ -1,7 +1,6 @@
 ### Hi there 👋
 안녕하세요. ML/DL 문제해결에 관심많은 대학원생입니다.
 
-[[CV](https://github.com/lee-gwang/lee-gwang/blob/main/final_gh_cv.pdf)]
 <!--
 **lee-gwang/lee-gwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 About me
+- 
+- [[CV](https://github.com/lee-gwang/lee-gwang/blob/main/final_gh_cv.pdf)]
+- Email : icanlgh0016@gmail.com
+
+😄 Interests
+- 
+- Kaggle
+- Vision
+- Model Compression
+
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition/light) -->
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light)
-
-
 
