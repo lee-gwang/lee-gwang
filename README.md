@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 🌱 About me
-- 
 - [[CV](https://github.com/lee-gwang/lee-gwang/blob/main/gwang_cv.pdf)]
 - Email : icanlgh0016@gmail.com
 - [Website](lee-gwang.github.io)
