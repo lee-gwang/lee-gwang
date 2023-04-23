@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 🥇 AI Competition
 - 
-- Kaggle Competition Master [[Profile]([https://github.com/lee-gwang/lee-gwang/blob/main/gwang_cv.pdf](https://www.kaggle.com/gwanghan))]
-- Dacon Challgenger [[Profile]([https://github.com/lee-gwang/lee-gwang/blob/main/gwang_cv.pdf](https://dacon.io/myprofile/204515/home))]
+- Kaggle Competition Master [[Profile](https://www.kaggle.com/gwanghan)]
+- Dacon Challgenger [[Profile](https://dacon.io/myprofile/204515/home)]
 
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/dark) -->
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light) -->
