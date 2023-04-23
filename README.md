@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 - Vision
 - Model Compression
 
+
+🥇 AI Competition
+- 
+- Kaggle Competition Master [[Profile]([https://github.com/lee-gwang/lee-gwang/blob/main/gwang_cv.pdf](https://www.kaggle.com/gwanghan))]
+- Dacon Challgenger [[Profile]([https://github.com/lee-gwang/lee-gwang/blob/main/gwang_cv.pdf](https://dacon.io/myprofile/204515/home))]
+
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/dark) -->
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light)
+<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light) -->
 
