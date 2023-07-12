@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - Dacon Challgenger [[Profile](https://dacon.io/myprofile/204515/home)]
 
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/dark) -->
-<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light) -->
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gwanghan/competition/light)
 
